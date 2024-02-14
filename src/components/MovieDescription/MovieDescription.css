@@ -1,0 +1,14 @@
+/* MovieDescription.css */
+.movie-description {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .movie-description h2 {
+    margin-bottom: 10px;
+  }
+  
+  .movie-description p {
+    margin-bottom: 5px;
+  }
+  
